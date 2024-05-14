@@ -1,6 +1,8 @@
 # Penn-BE5740-Project
 
 - This is a class project modelled after the following publication:
+
+<!--bibtex-->
 @article{XIA2021102169,
 title = {Learning to synthesise the ageing brain without longitudinal data},
 journal = {Medical Image Analysis},
